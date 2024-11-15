@@ -1,19 +1,19 @@
-# 🏅 Certificados - Deixe seu Star 🌟
+# 🏅 Certificates - Leave a Star 🌟
 
-> **Don't speak Portuguese?** [Click here for the English version.](README-EN.md)
+> **Nao fala em Ingles?** [Clique aqui.](README.md)
 
 ---
 
 ![Certificates](https://img.shields.io/badge/Certificates-2024-blue) ![GitHub repo size](https://img.shields.io/github/repo-size/codejota/certificates) ![GitHub](https://img.shields.io/github/license/codejota/certificates) ![GitHub last commit](https://img.shields.io/github/last-commit/codejota/certificates) ![GitHub followers](https://img.shields.io/github/followers/codejota?style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/codejota/certificates?style=social) ![GitHub forks](https://img.shields.io/github/forks/codejota/certificates?style=social) ![GitHub watchers](https://img.shields.io/github/watchers/codejota/certificates?style=social)
 
-Este repositório contém todos os meus certificados de cursos e treinamentos. Ao longo da minha carreira, busquei expandir minhas habilidades em diversas áreas, incluindo **desenvolvimento de software**, **infraestrutura**, **ferramentas de análise de dados**, e mais. Aqui você encontrará todas as certificações que adquiri, organizadas por ano e categoria. Talvez nao fosse a melhor forma de organizar, mas foi a que encontrei para facilitar a busca e a visualização dos certificados. Voce pode verificar mais no meu [Curriculum Vitae](https://www.cv.jotacode.dev).
+This repository contains all of my course and training certificates. Throughout my career, I have sought to expand my skills in various areas, including **software development**, **infrastructure**, **data analysis tools**, and more. Here you will find all the certifications I have acquired, organized by year and category. It might not be the best way to organize, but it is the one I found to make it easier to search and view the certificates. You can check more in my [Curriculum Vitae](https://www.cv.jotacode.dev).
 
 ---
 
-## 📂 Estrutura do Repositório
+## 📂 Repository Structure
 
-A estrutura de pastas do repositório segue o modelo de organização por **categoria** e **ano**. Veja abaixo como está organizado:
+The repository folder structure follows the model of organization by **category** and **year**. Here is how it is organized:
 
 ```markdown
 .
@@ -23,13 +23,13 @@ A estrutura de pastas do repositório segue o modelo de organização por **cate
 │ ├── [Ruby](./Backend/2024/Ruby)
 │ └── [SQL](./Backend/2024/SQL)
 │
-├── [Certificações Técnicas](./Certificacoes_Tecnicas)
+├── [Technical Certifications](./Certificacoes_Tecnicas)
 │ ├── [2019](./Certificacoes_Tecnicas/2019)
 │ │ └── [Cisco](./Certificacoes_Tecnicas/2019/Cisco)
 │ └── [2023](./Certificacoes_Tecnicas/2023)
 │ └── [HiveMQTT](./Certificacoes_Tecnicas/2023/HiveMQTT)
 │
-├── [Ferramentas e Frameworks](./Ferramentas_e_Frameworks)
+├── [Tools and Frameworks](./Ferramentas_e_Frameworks)
 │ ├── [2021](./Ferramentas_e_Frameworks/2021)
 │ │ └── [Power BI](./Ferramentas_e_Frameworks/2021/Power_BI)
 │ ├── [2022](./Ferramentas_e_Frameworks/2022)
@@ -39,7 +39,7 @@ A estrutura de pastas do repositório segue o modelo de organização por **cate
 │
 ├── [Frontend](./Frontend)
 │ ├── [2022](./Frontend/2022)
-│ │ ├── [Aplicações Web Acessíveis](./Frontend/2022/Aplicacoes_Web_Acessiveis)
+│ │ ├── [Accessible Web Applications](./Frontend/2022/Aplicacoes_Web_Acessiveis)
 │ │ ├── [Front-End](./Frontend/2022/Front-End)
 │ │ ├── [HTML & CSS](./Frontend/2022/HTML_CSS)
 │ │ ├── [Javascript](./Frontend/2022/Javascript)
@@ -54,24 +54,24 @@ A estrutura de pastas do repositório segue o modelo de organização por **cate
 
 ---
 
-## 🚀 Como Acessar os Certificados
+## 🚀 How to Access the Certificates
 
-Os certificados podem ser encontrados dentro das respectivas pastas, organizadas por **ano** e **categoria**. Cada arquivo PDF contém um certificado digital válido que pode ser utilizado para comprovar minhas qualificações.
+The certificates can be found inside their respective folders, organized by **year** and **category**. Each PDF file contains a valid digital certificate that can be used to prove my qualifications.
 
 ---
 
-## 🎯 Objetivos de Aprendizado
+## 🎯 Learning Goals
 
-- **Aprimorar habilidades em Backend**: Continuar explorando novas tecnologias, como Python, Ruby, e SQL, para fortalecer minha base em desenvolvimento de software no lado do servidor.
-- **Explorar novas ferramentas**: Estudar Docker, Kubernetes e outras ferramentas que contribuem para a automação e escalabilidade de aplicações.
-- **Aprofundar no Frontend**: Aperfeiçoar conhecimentos em frameworks modernos como React, Vue.js, e TypeScript.
-- **SEO e Acessibilidade**: Aprofundar minhas habilidades em otimização de sites para mecanismos de busca e tornar minhas aplicações mais acessíveis.
+- **Enhance Backend skills**: Continue exploring new technologies such as Python, Ruby, and SQL to strengthen my foundation in server-side software development.
+- **Explore new tools**: Study Docker, Kubernetes, and other tools that contribute to the automation and scalability of applications.
+- **Deepen Frontend knowledge**: Improve skills in modern frameworks such as React, Vue.js, and TypeScript.
+- **SEO and Accessibility**: Deepen my skills in optimizing websites for search engines and making my applications more accessible.
 
-## 📈 Evolução de Carreira
+## 📈 Career Evolution
 
-    Tenho focado em aprimorar minhas habilidades em tecnologias emergentes e ferramentas que otimizam o desenvolvimento e a infraestrutura de TI, ferramentas Web. Continuarei adicionando novos certificados à medida que concluo novos cursos e desafios profissionais. Te vejo por aqui. 🚀
+I have focused on improving my skills in emerging technologies and tools that optimize software development and IT infrastructure, as well as web tools. I will continue adding new certifications as I complete new courses and professional challenges. See you around. 🚀
 
-## 🌐 Bora se conectar?
+## 🌐 Let's Connect?
 
 - **GitHub**: [GitHub](https://github.com/codejota)
 - **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/)
