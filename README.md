@@ -69,7 +69,7 @@ Os certificados podem ser encontrados dentro das respectivas pastas, organizadas
 
 ## 📈 Evolução de Carreira
 
-    Tenho focado em aprimorar minhas habilidades em tecnologias emergentes e ferramentas que otimizam o desenvolvimento e a infraestrutura de TI, ferramentas Web. Continuarei adicionando novos certificados à medida que concluo novos cursos e desafios profissionais. Te vejo por aqui. 🚀
+Tenho focado em aprimorar minhas habilidades em tecnologias emergentes e ferramentas que otimizam o desenvolvimento e a infraestrutura de TI, ferramentas Web. Continuarei adicionando novos certificados à medida que concluo novos cursos e desafios profissionais. Te vejo por aqui. 🚀
 
 ## 🌐 Bora se conectar?
 
