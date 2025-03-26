@@ -1,4 +1,4 @@
-# 🏅 Certificados - Deixe seu Star 🌟
+# 🏅 Certificados  🌟
 
 > **Don't speak Portuguese?** [Click here for the English version.](README-EN.md)
 
@@ -11,46 +11,7 @@ Este repositório contém todos os meus certificados de cursos e treinamentos. A
 
 ---
 
-## 📂 Estrutura do Repositório
 
-A estrutura de pastas do repositório segue o modelo de organização por **categoria** e **ano**. Veja abaixo como está organizado:
-
-```markdown
-.
-├── [Backend](./Backend)
-│ └── [2024](./Backend/2024)
-│ ├── [Python](./Backend/2024/Python)
-│ ├── [Ruby](./Backend/2024/Ruby)
-│ └── [SQL](./Backend/2024/SQL)
-│
-├── [Certificações Técnicas](./Certificacoes_Tecnicas)
-│ ├── [2019](./Certificacoes_Tecnicas/2019)
-│ │ └── [Cisco](./Certificacoes_Tecnicas/2019/Cisco)
-│ └── [2023](./Certificacoes_Tecnicas/2023)
-│ └── [HiveMQTT](./Certificacoes_Tecnicas/2023/HiveMQTT)
-│
-├── [Ferramentas e Frameworks](./Ferramentas_e_Frameworks)
-│ ├── [2021](./Ferramentas_e_Frameworks/2021)
-│ │ └── [Power BI](./Ferramentas_e_Frameworks/2021/Power_BI)
-│ ├── [2022](./Ferramentas_e_Frameworks/2022)
-│ │ └── [Linux](./Ferramentas_e_Frameworks/2022/Linux)
-│ └── [2024](./Ferramentas_e_Frameworks/2024)
-│ └── [Docker](./Ferramentas_e_Frameworks/2024/Docker)
-│
-├── [Frontend](./Frontend)
-│ ├── [2022](./Frontend/2022)
-│ │ ├── [Aplicações Web Acessíveis](./Frontend/2022/Aplicacoes_Web_Acessiveis)
-│ │ ├── [Front-End](./Frontend/2022/Front-End)
-│ │ ├── [HTML & CSS](./Frontend/2022/HTML_CSS)
-│ │ ├── [Javascript](./Frontend/2022/Javascript)
-│ │ ├── [Mail Marketing](./Frontend/2022/Mail_Marketing)
-│ │ ├── [Power BI](./Frontend/2022/Power_BI)
-│ │ ├── [SEO](./Frontend/2022/SEO)
-│ │ └── [TailwindCSS](./Frontend/2022/TailwindCSS)
-│ └── [2024](./Frontend/2024)
-│ ├── [Javascript](./Frontend/2024/Javascript)
-│ └── [Typescript](./Frontend/2024/Typescript)
-```
 
 ---
 
